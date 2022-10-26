@@ -1,0 +1,51 @@
+.box-icon img{
+    height: 40px;
+    width: 40px;
+    display: flex;
+    
+}
+
+.skills-area{
+    display: flex;
+}
+.experties-area{
+    width: 50%;
+    margin-right: 0%;
+    margin-left: 50px;
+    padding-left: 100px;
+    padding-right: 0%;
+    
+    
+}
+
+.box{
+    background-color: rgb(247, 238, 238);
+    width: 60%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px 21px;
+    border-radius: 5px;
+    
+    
+}
+.box-text h4{
+    margin: 0%;
+}
+.box-text p{
+    font-size: small;
+    margin: 0%;
+    color: brown;
+    
+}
+#experties-img{
+    margin-left: 0%;
+    padding-left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 50px;
+}
+ 
+ 
+
+   
